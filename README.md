@@ -3,7 +3,7 @@
 <code><img height="" src = "assets/images/preview/main.png"></code>
 #### I am [Aman](https://home.iitk.ac.in/~amanks20/), an undergraduate student in Civil Engineering Department at Indian of Institute Technology Kanpur
 
-This website is personal homepage hosted on iitk server at https://home.iitk.ac.in/~amanks20/
+This website is my personal homepage hosted on iitk server at https://home.iitk.ac.in/~amanks20/
 
 
 ### [Assests](assets)
