@@ -3,9 +3,7 @@
 <code><img height="" src = "preview/main.png"></code>
 #### I am [Aman](https://home.iitk.ac.in/~amanks20/), an undergraduate student in Civil Engineering Department at Indian of Institute Technology Kanpur
 
-Note : Website Content at personal capacity.
-All rights reserved.
-Copyrights Aman Kumar Singh 2021
+This website is personal homepage hosted on iitk server at https://home.iitk.ac.in/~amanks20/
 
 
 ### [Assests](assets)
@@ -33,11 +31,6 @@ Copyrights Aman Kumar Singh 2021
   - [index](projects/cad/index.html)
 - [index](projects/index.html)
 
-
-### [Resume](resume)
-- [Resume Sept 2021](resume/Resume_Aman_KS_Sept-2021.pdf)
-- [Resume August 2021](resume/Resume_Aman_KS_August-2021.pdf)
-
 ### [LICENSE](LICENSE)
 
 ### [dp](dp.jpg)
@@ -47,3 +40,7 @@ Copyrights Aman Kumar Singh 2021
 ### [Index](index.html)
 
 ### [Sitemap](sitemap.xml)
+
+Note : Website Content at personal capacity.
+All rights reserved.
+Copyrights Aman Kumar Singh 2021
